@@ -36,3 +36,7 @@ To run the app locally, use the following command:
 ```bash
 streamlit run app.py
 ```
+
+## Contributions
+
+Contributions are welcome. Please feel free to fork the repository, make improvements, and submit a pull request. 
